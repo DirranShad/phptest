@@ -1,0 +1,1 @@
+<html><body style="text-align:center;margin-top:20%;"><h1>What are you trying at?!<br>404, page not found. >_></h1></body></html>
